@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj": {}
+    "D:\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
+    "D:\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj",
+        "projectUniqueName": "D:\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj",
         "projectName": "GymEnCasa.App.Dominio",
-        "projectPath": "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\Stefanny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\obj\\",
+        "projectPath": "D:\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\ljcor\\.nuget\\packages\\",
+        "outputPath": "D:\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Stefanny\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ljcor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,29 +63,31 @@
         }
       }
     },
-    "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj": {
+    "D:\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
+        "projectUniqueName": "D:\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
         "projectName": "GymEnCasa.App.Persistencia",
-        "projectPath": "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\Stefanny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\obj\\",
+        "projectPath": "D:\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\ljcor\\.nuget\\packages\\",
+        "outputPath": "D:\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Stefanny\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ljcor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
-                "projectPath": "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj"
+              "D:\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
+                "projectPath": "D:\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj"
               }
             }
           }
@@ -137,32 +141,34 @@
         }
       }
     },
-    "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj": {
+    "D:\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj",
+        "projectUniqueName": "D:\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj",
         "projectName": "GymEnCasa.App.Presentacion",
-        "projectPath": "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj",
-        "packagesPath": "C:\\Users\\Stefanny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\obj\\",
+        "projectPath": "D:\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj",
+        "packagesPath": "C:\\Users\\ljcor\\.nuget\\packages\\",
+        "outputPath": "D:\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Stefanny\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ljcor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
-                "projectPath": "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj"
+              "D:\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
+                "projectPath": "D:\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj"
               },
-              "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj": {
-                "projectPath": "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj"
+              "D:\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj": {
+                "projectPath": "D:\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj"
               }
             }
           }
