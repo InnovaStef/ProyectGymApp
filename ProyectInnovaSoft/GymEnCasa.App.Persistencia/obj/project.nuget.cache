@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cc43YBQlnigA9Tsne1b8LG88Wod6F5pUqK7B3QMZs7Mprt40d9AF2mOYkuqBWNGzl/kh3pWc4rxFMKC3Lrkz+Q==",
+  "dgSpecHash": "6e0mZGxeSFvC8f86JV1nMoxO4YIKtDeYOJpp2XQgFXCTCdk8IDgFV3+Zu2EOMATyV34zL7vRExOBwRDmZUbqFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\Stefanny\\Downloads\\ProyectoInnovasoft\\ProyectGymApp\\proyectinnovasoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stefanny\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Stefanny\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

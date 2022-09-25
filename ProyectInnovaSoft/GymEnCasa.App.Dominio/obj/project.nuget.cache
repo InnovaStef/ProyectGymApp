@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vgff4fI7duwF2EQvqwX7AB5drZbYepaoURvGaSLdM4HAEol+DJilSz3KzWEz4tzxnjEymVTc2GMah4K63aukpA==",
+  "dgSpecHash": "B7MfHdDRe69DxJ3rdltVrGeZ8DkIY7lvrI9LW1thRsceiN9bzg0y8j9LCxPA/kiNulYBVAHurJPMmgNzdgrTZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\Stefanny\\Downloads\\ProyectoInnovasoft\\ProyectGymApp\\proyectinnovasoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stefanny\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Stefanny\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

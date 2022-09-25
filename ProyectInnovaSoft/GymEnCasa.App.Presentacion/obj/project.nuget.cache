@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0EtV0952aw0511u50mWL8qR8AMto0KMSU7SwZws2NNV+1KyaHjXw2C/LNdq2Hk4qjAvCkh6AUDsNwgQ3NJ4p9w==",
+  "dgSpecHash": "ZRKSu7KdMUEFg83/xOIi742DBsBSn6FSMoU0Cr5ByDJonB3OmtzRovQmAn1xM22UxHjF1MlT8VjzFglmCmrXtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj",
+  "projectFilePath": "C:\\Users\\Stefanny\\Downloads\\ProyectoInnovasoft\\ProyectGymApp\\proyectinnovasoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stefanny\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Stefanny\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

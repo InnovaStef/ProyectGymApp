@@ -58,3 +58,15 @@ C:\Users\Stefanny\Downloads\ProyectGymApp\ProyectInnovaSoft\GymEnCasa.App.Persis
 C:\Users\Stefanny\Downloads\ProyectGymApp\ProyectInnovaSoft\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCasa.App.Persistencia.csproj.CopyComplete
 C:\Users\Stefanny\Downloads\ProyectGymApp\ProyectInnovaSoft\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCasa.App.Persistencia.dll
 C:\Users\Stefanny\Downloads\ProyectGymApp\ProyectInnovaSoft\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCasa.App.Persistencia.pdb
+C:\Users\Stefanny\Downloads\ProyectoInnovasoft\ProyectGymApp\proyectinnovasoft\GymEnCasa.App.Persistencia\bin\Debug\netstandard2.1\GymEnCasa.App.Persistencia.deps.json
+C:\Users\Stefanny\Downloads\ProyectoInnovasoft\ProyectGymApp\proyectinnovasoft\GymEnCasa.App.Persistencia\bin\Debug\netstandard2.1\GymEnCasa.App.Persistencia.dll
+C:\Users\Stefanny\Downloads\ProyectoInnovasoft\ProyectGymApp\proyectinnovasoft\GymEnCasa.App.Persistencia\bin\Debug\netstandard2.1\GymEnCasa.App.Persistencia.pdb
+C:\Users\Stefanny\Downloads\ProyectoInnovasoft\ProyectGymApp\proyectinnovasoft\GymEnCasa.App.Persistencia\bin\Debug\netstandard2.1\GymEnCasa.App.Dominio.dll
+C:\Users\Stefanny\Downloads\ProyectoInnovasoft\ProyectGymApp\proyectinnovasoft\GymEnCasa.App.Persistencia\bin\Debug\netstandard2.1\GymEnCasa.App.Dominio.pdb
+C:\Users\Stefanny\Downloads\ProyectoInnovasoft\ProyectGymApp\proyectinnovasoft\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCasa.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\Stefanny\Downloads\ProyectoInnovasoft\ProyectGymApp\proyectinnovasoft\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCasa.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Stefanny\Downloads\ProyectoInnovasoft\ProyectGymApp\proyectinnovasoft\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCasa.App.Persistencia.AssemblyInfo.cs
+C:\Users\Stefanny\Downloads\ProyectoInnovasoft\ProyectGymApp\proyectinnovasoft\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Stefanny\Downloads\ProyectoInnovasoft\ProyectGymApp\proyectinnovasoft\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCasa.App.Persistencia.csproj.CopyComplete
+C:\Users\Stefanny\Downloads\ProyectoInnovasoft\ProyectGymApp\proyectinnovasoft\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCasa.App.Persistencia.dll
+C:\Users\Stefanny\Downloads\ProyectoInnovasoft\ProyectGymApp\proyectinnovasoft\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCasa.App.Persistencia.pdb

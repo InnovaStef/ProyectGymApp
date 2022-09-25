@@ -5746,11 +5746,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj",
+      "projectUniqueName": "C:\\Users\\Stefanny\\Downloads\\ProyectoInnovasoft\\ProyectGymApp\\proyectinnovasoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj",
       "projectName": "GymEnCasa.App.Presentacion",
-      "projectPath": "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj",
+      "projectPath": "C:\\Users\\Stefanny\\Downloads\\ProyectoInnovasoft\\ProyectGymApp\\proyectinnovasoft\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj",
       "packagesPath": "C:\\Users\\Stefanny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Presentacion\\obj\\",
+      "outputPath": "C:\\Users\\Stefanny\\Downloads\\ProyectoInnovasoft\\ProyectGymApp\\proyectinnovasoft\\GymEnCasa.App.Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stefanny\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5764,11 +5764,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj"
+            "C:\\Users\\Stefanny\\Downloads\\ProyectoInnovasoft\\ProyectGymApp\\proyectinnovasoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Stefanny\\Downloads\\ProyectoInnovasoft\\ProyectGymApp\\proyectinnovasoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj"
             },
-            "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\Stefanny\\Downloads\\ProyectGymApp\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj"
+            "C:\\Users\\Stefanny\\Downloads\\ProyectoInnovasoft\\ProyectGymApp\\proyectinnovasoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\Stefanny\\Downloads\\ProyectoInnovasoft\\ProyectGymApp\\proyectinnovasoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj"
             }
           }
         }
